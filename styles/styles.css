@@ -251,10 +251,11 @@ main > .section:first-of-type {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: rgba(345, 223, 0, 0.999);
+  background-color: blue ;
     margin: 0;
     padding: 40px 0;
-}.center-text {
+}
+.center-text {
    text-align: center;
    font-weight: bold;
      font-size: 2rem;
